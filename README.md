@@ -26,6 +26,3 @@ add your song to songlist.q in DATA/patch and compile it to a pak using honeycom
 Keep in mind that everytime you add or remove a custom your save will become unusable
  
 To have your customs show up in quickplay you'll need to use the Unlock All option in the mod menu
-
-On the ps3 build the original songs are still in the songlist.q or the game will crash when loading a save
-Xbox has them removed
